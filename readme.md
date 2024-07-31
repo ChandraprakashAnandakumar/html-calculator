@@ -1,4 +1,4 @@
-## created a simple calculator using simple html js .##
+## created a simple calculator using simple html js .
 
 ![image](https://github.com/user-attachments/assets/64b86652-7b0a-45dc-b4c4-59bf1f0cc1e2)
 ![image](https://github.com/user-attachments/assets/98da70d6-b60a-4634-b990-2118aab33755)
